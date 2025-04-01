@@ -1,6 +1,30 @@
 # PrisonCrawler
 Dungeon Generators For Prison Crawlers.
 
+## Tile Explanation
+This are for the town tiles.
+~~~
+# # is a French fortress wall
+# | is a Japanese dojo wall.
+# + Is a Dojo wall connector.
+# . Is standard floor tile.
+# x Is a woven matt tile. 
+# = Is a sldiing glass door.
+# * Pathway
+~~~
+
+These are for the dungeon tiles.
+~~~
+T Catecombs Wall
+G Gate
+x Bridge / Pathway
+Q Tree
+< Upstairs
+> Downstairs
+V Stalagmite
+K Tombekashi / Bear-Bat Lair
+~~~
+
 ## Example Map
 ~~~
              #.#.#.#       #.#.#.#
